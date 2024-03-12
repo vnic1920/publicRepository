@@ -1,0 +1,2 @@
+# publicRepository
+Demonstrate GIT PUSH
